@@ -22,4 +22,4 @@ fun main(){
     }
     println("===================================")
 }
-
+//Copyrights © https://github.com/Dramos02
